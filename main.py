@@ -1,10 +1,6 @@
-import threading
-import tkinter
 from tkinter import Tk, Entry, Button, Label, filedialog,END
-import tkinter as tk
 import winsound
 
-from PIL import Image, ImageTk, ImageDraw, ImageFont
 import random
 import time
 
